@@ -204,8 +204,8 @@ app.get('/api/lessons', (req, res) => {
 
 // Diagnostics
 console.log("Available lessons:", Object.keys(db));
-Object.entries(db).forEach(([key, arr]) => {
-    console.log(`${key}: ${arr.length} questions`);
+Object.entries(db).forEach(([key, obj]) => {
+    console.log(`${key}: ${obj.questions.length} questions`);
 });
 
 const PORT = process.env.PORT || 5000;
