@@ -145,7 +145,7 @@ app.get('/api/mcqs/random', (req, res) => {
     } else if (subject === 'both') {
         pool = getSubjectPool('pharmacology').concat(getSubjectPool('pathology'));
     } else {
-        pool = Object.values(db).flat();
+        pool = Object.values(db).flatMap(obj => obj.questions);
     }
 
     if (pool.length === 0) {
@@ -173,7 +173,7 @@ app.get('/api/mcqs/finals', (req, res) => {
 
     // If rounding caused fewer items than requested, try to fill from combined pool
     if (result.length < count) {
-        const combined = shuffle(Object.values(db).flat());
+        const combined = shuffle(Object.values(db).flatMap(obj => obj.questions));
         const needed = count - result.length;
         const filler = combined.filter(q => !result.includes(q)).slice(0, needed);
         result = result.concat(filler);
