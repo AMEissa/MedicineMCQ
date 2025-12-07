@@ -1,0 +1,9 @@
+services:
+  - name: medicine-mcq-api
+    type: web
+    env: node
+    plan: free
+    region: virginia
+    buildCommand: npm install
+    startCommand: npm start
+    autoDeploy: true
