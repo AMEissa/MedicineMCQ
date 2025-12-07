@@ -43,7 +43,7 @@ function loadMCQs(baseDir) {
     return db;
 }
 
-const dataPath = path.join(process.cwd(), 'data', 'mcqs');
+const dataPath = path.join(__dirname, '..', '..', 'data', 'mcqs');
 const db = loadMCQs(dataPath);
 
 const shuffle = arr => {

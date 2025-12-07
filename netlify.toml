@@ -3,7 +3,8 @@
   functions = "netlify/functions"
 
 [functions]
-  included_files = ["data/**"]
+  node_bundler = "esbuild"
+  included_files = ["data/**/*"]
 
 [[redirects]]
   from = "/api/*"
