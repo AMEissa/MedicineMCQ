@@ -1,0 +1,609 @@
+{
+ "title": "GIT",
+ "questions": [
+  {
+    "id": "pharma46",
+    "lesson": "pharmacology-lesson2",
+    "question": "All of the following is true regarding omeprazole except ......",
+    "options": ["It's action last Up to 2 hours", "It's a proton pump inhibitor", "It's taken after the meal", "It's metabolized by Liver"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma47",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which of the following drugs taken at bedtime .......",
+    "options": ["Omeprazole", "NaHCO3", "Nizatidine", "Pirenzepine"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma48",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which is true about Cimetidine ......?",
+    "options": ["It's mainly metabolized by liver", "It inhibits Adenyl cyclase", "It irreversibly blocks H2 Receptor", "It's the safest drug to be used in this group"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma49",
+    "lesson": "pharmacology-lesson2",
+    "question": "The drug which has not antiandrogenic effect ........",
+    "options": ["Omeprazole", "Cimetidine", "Sprinolactone", "None of the above"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma50",
+    "lesson": "pharmacology-lesson2",
+    "question": "Proton pump inhibitor drug is ......",
+    "options": ["Pirenzepine", "Sucralfate", "Lanoprazole", "All of the above"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma51",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which of the following drugs used before anesthesia ......",
+    "options": ["Omeprazole", "Nizatidine", "Pirenzepine", "Bismuth"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma52",
+    "lesson": "pharmacology-lesson2",
+    "question": "The best drug used in cases of acute vomiting attacks is .....",
+    "options": ["Ondansetron", "Cyclizine", "Aprepitant", "Diazepam"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma53",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which of these drugs has a fewer side effects on extrapyramidal system",
+    "options": ["Domperidone", "Metoclopramide", "Granisetron", "Droperidol"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma54",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which of these drugs is used as a local drug in treatment of motion sickness ......?",
+    "options": ["Cyclizine", "Diphenhydramine", "Scopolamine", "Aprepitant"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma55",
+    "lesson": "pharmacology-lesson2",
+    "question": "This of these combinations is used to reduce extrapyramidal side effects of metoclopramide, Metoclopramide with .......",
+    "options": ["Domperidon", "Dexamesasone", "Ondancetron", "Diphenylhydramine"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma56",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which of these drugs is used in treatment of anticipatory emesis ......?",
+    "options": ["Diphenhydramine", "Diazepam", "Metoclopramide", "Granisetron"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma57",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which of these drugs is used as a prokinetic ...?",
+    "options": ["Metoclopramide", "Aprepitant", "Erythromycin", "Both A and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma58",
+    "lesson": "pharmacology-lesson2",
+    "question": "All of these drugs are used in treatment of nausea due to chemotherapy except ......",
+    "options": ["Metoclopramide", "Aprepitant", "Dexamethazone", "Pirenzepine"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma59",
+    "lesson": "pharmacology-lesson2",
+    "question": "The best combination used in prevention of nausea and vomiting induced by chemotherapy .....",
+    "options": ["Metoclopramide + Diphenhydramine + Cyclizine", "Dexamethasone + Ondansetron + Aprepitant", "Domperidon + Aprepitant + Cyclizine", "None of the above"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma60",
+    "lesson": "pharmacology-lesson2",
+    "question": "The first choice in treatment of vomiting of pregnancy is ......",
+    "options": ["Pyridoxine B6", "Metoclopramide", "Cyclizine", "Ondansetron"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma61",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which of these drugs can cause Gynaecomastia as a side effect .....?",
+    "options": ["Metoclopramide", "Ondansetron", "Cimetidine", "Both A and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma62",
+    "lesson": "pharmacology-lesson2",
+    "question": "all of the following is true about antacids except:",
+    "options": ["basic substances", "neutralize gastric HCL", "calcium ions are the most potent", "sodium ions are the least potent"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma63",
+    "lesson": "pharmacology-lesson2",
+    "question": "antacids are indicated in:",
+    "options": ["healing duodenal ulcer in small doses", "treatment of GERD", "acute gastritis", "relief of occasional heart burn and dyspepsia"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma64",
+    "lesson": "pharmacology-lesson2",
+    "question": "The following mettalic ion causes rebound acid secretion:",
+    "options": ["Ca", "K", "Mg", "Al"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma65",
+    "lesson": "pharmacology-lesson2",
+    "question": "The following are disadvantages of sodium bicarbonate as antacid except:",
+    "options": ["Short duration of action", "Laxative effect", "Systemic alkalosis", "Hypertension"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma66",
+    "lesson": "pharmacology-lesson2",
+    "question": "Mg tricilicate:",
+    "options": [
+      "Has 2 mechanisms of action",
+      "Silicon dioxide acts as demulcent",
+      "Silicon dioxide absorb excess hcl",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma67",
+    "lesson": "pharmacology-lesson2",
+    "question": "Disadvantages of aluminum hydroxide include:",
+    "options": [
+      "acid base balance disturbance",
+      "laxative effect",
+      "hypophosphatemia",
+      "hypermagnesenia"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma68",
+    "lesson": "pharmacology-lesson2",
+    "question": "All of the following is true about misoprostol except:",
+    "options": [
+      "decreases mucosal blood flow",
+      "stimulates mucin secretion",
+      "decreases gastric acidity",
+      "stimulates intestinal motility"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma69",
+    "lesson": "pharmacology-lesson2",
+    "question": "The following drugs is contraindicated in pregnancy:",
+    "options": [
+      "antacids",
+      "misoprostol",
+      "sucralfate",
+      "bismuth chelate"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma70",
+    "lesson": "pharmacology-lesson2",
+    "question": "The following drugs used in peptic ulcer except:",
+    "options": [
+      "sucralfate",
+      "bismuth chelate",
+      "PPI",
+      "H2 blockers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma71",
+    "lesson": "pharmacology-lesson2",
+    "question": "the following drug has an antimicrobial action:",
+    "options": [
+      "PPI",
+      "H2 blockers",
+      "bismuth subcitrate",
+      "antacids"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma72",
+    "lesson": "pharmacology-lesson2",
+    "question": "A 27- year -old is going in a red sea cruise next week. He asks his family physician to prescribe to him a drug to prevent his usual complaint of unpleasant sensation of nausea during such trips?",
+    "options": [
+      "Metoclopramide",
+      "Ranitidine",
+      "Scopolamine",
+      "Prochlorperazine"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma73",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which antiemetic drug could be associated with prolongation of Q-T interval?",
+    "options": [
+      "Nabilone",
+      "Scoplamine",
+      "Dowvlamine",
+      "Ondansetron"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma74",
+    "lesson": "pharmacology-lesson2",
+    "question": "A 65-year-old patient presented to outpatient clinic complaining of less than twice bowel movements per week, straining, hard stools and incomplete evacuation since 3 months. What would be the most appropriate laxative for this patient?",
+    "options": [
+      "Psyllium",
+      "Magnesium sulphate",
+      "Balanced polyethylene glycol",
+      "MethyInaltrexone"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma75",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which drug can be given as one of the pre- anesthetic medications for emergency operations?",
+    "options": [
+      "Sucralfate",
+      "Calcium carbonate",
+      "Ranitidine",
+      "Misoprostol"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma76",
+    "lesson": "pharmacology-lesson2",
+    "question": "1- why do wegiveantacid?",
+    "options": [
+      "relieve symptoms",
+      "heal ulcer",
+      "prevent ulcer",
+      "Rapid action"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma77",
+    "lesson": "pharmacology-lesson2",
+    "question": "2- Hypomagnesemia is a side effect of which drug",
+    "options": [
+      "Bismuth",
+      "Misoprptol",
+      "Sucralfate",
+      "PPI"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma78",
+    "lesson": "pharmacology-lesson2",
+    "question": "5- How Methylnalterxone affect morphine in which mechanism",
+    "options": [
+      "Constipation",
+      "Analgesic",
+      "Euphoria",
+      "respiratory depression"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma79",
+    "lesson": "pharmacology-lesson2",
+    "question": "9- A patient started to take NSAID.What is the first line drug he should take:",
+    "options": [
+      "Omeprazole",
+      "Cimatidine",
+      "Misoprostol",
+      "Bismuth"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma80",
+    "lesson": "pharmacology-lesson2",
+    "question": "13- After percutaneous coronary intervention for myocardial infarction, a 68-year-old patient was prescribed a combination of clopidogrel and small dose aspirin. Which drug should be prescribed to this patent to mimize the risk of gastro-intestinal adverse reaction?",
+    "options": [
+      "Misoprostol",
+      "Ranitidine",
+      "Lansoprazole",
+      "Bismuth"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma81",
+    "lesson": "pharmacology-lesson2",
+    "question": "15- Which of the following is a characteristic feature of lansoprazole?",
+    "options": [
+      "It should be given three times daily for prolonged acid suppressive effect",
+      "It is a cytochrome P 450 inhibitor",
+      "Its dose should be reduced in renal insufficiency",
+      "It can be used in prophylaxis against NSAIDs induced ulcer"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma82",
+    "lesson": "pharmacology-lesson2",
+    "question": "20- why ppl work for long period as it",
+    "options": [
+      "irreversible inactivation of the pump",
+      "Has long elemention period",
+      "Inhinits histamine secreation",
+      "Non-absorbable"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma83",
+    "lesson": "pharmacology-lesson2",
+    "question": "21- misoprostol action",
+    "options": [
+      "decrease HCI secretion",
+      "Promote mucosal defense",
+      "netaralization of secreted HCL",
+      "Decrease PG synthesis"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma84",
+    "lesson": "pharmacology-lesson2",
+    "question": "1. Which of the following is a proton pump inhibitor effective in treatment of peptic ulcer?",
+    "options": [
+      "Omeprazole.",
+      "Ranitidine.",
+      "Pirenzepine.",
+      "Misoprostol."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma85",
+    "lesson": "pharmacology-lesson2",
+    "question": "2. Which of the following antiemetics is useful in treatment of motion sickness?",
+    "options": [
+      "Diphenhydrami",
+      "Chlorpromazine.",
+      "Haloperidol.",
+      "Metoclopramide."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma86",
+    "lesson": "pharmacology-lesson2",
+    "question": "4) Which of the following is the mechanism of action of ondansetron?",
+    "options": ["D2 receptor blocker.", "Neurokinin receptor blocker.", "5-HT3 receptor blocker.", "H1 receptor blocker."],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma87",
+    "lesson": "pharmacology-lesson2",
+    "question": "6) Which of the following describes the mechanism of action of glycerin suppository?",
+    "options": ["Lubricant laxative.", "Osmotic laxative.", "Irritant laxative.", "Stool softening laxative."],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma88",
+    "lesson": "pharmacology-lesson2",
+    "question": "1. Which of the following is H2 blocker effective in treatment of peptic ulcer?",
+    "options": ["Omeprazole.", "Ranitidine.", "Pirenzepine.", "Misoprostol."],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma89",
+    "lesson": "pharmacology-lesson2",
+    "question": "2. Which of the following is a systemic antacid that should be avoided in hypertension?",
+    "options": ["Aluminium hydroxide.", "Sodium bicarbonate (NaHCO3).", "Calcium carbonate (CaCO3).", "Magnesium salts.", "Lactulose."],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma90",
+    "lesson": "pharmacology-lesson2",
+    "question": "1. Which one of the following is adverse effect in patient recieve almunium contain antacid",
+    "options": ["hyperglycemia", "hypermagnesemia", "hypophosphatemia", "hypernatremia"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma91",
+    "lesson": "pharmacology-lesson2",
+    "question": "2. Which one of the following has a mucosal protective agent action",
+    "options": ["sucralfate", "omeparazole", "rantidine", "proglumide"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma92",
+    "lesson": "pharmacology-lesson2",
+    "question": "3. Which one of the following has H2 receptor blockers action",
+    "options": ["omeparazole", "famotodine", "pyrinzepine", "misoprostol"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma93",
+    "lesson": "pharmacology-lesson2",
+    "question": "5. Ondansetron was used to control vomiting; it acts by the following mechanism",
+    "options": ["D2 receptor blocker.", "Neurokinin receptor blocker.", "5-HT3 receptor blocker.", "H1 receptor blocker."],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma94",
+    "lesson": "pharmacology-lesson2",
+    "question": "6. Which one of the following mechanism of drug used to treatment of motion sickness",
+    "options": ["muscarinic receptor blockers", "sertonin receptor blockers", "dopaminergic blocker", "neurokinin receptor blockers"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma95",
+    "lesson": "pharmacology-lesson2",
+    "question": "7. Patient with bronchogenic carcinoma has a vomiting and is refractory to dopaminergic blocker which one of the following drug used",
+    "options": ["dexamethasone", "pyridoxine", "metaclopramide", "granisteron"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma96",
+    "lesson": "pharmacology-lesson2",
+    "question": "1. Which one of the following is systemic antacid used to control peptic ulcer manifestations?",
+    "options": ["sodium bicarbonate", "magnesium hydroxide", "magnesium trisilicate", "aluminum hydroxide"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma97",
+    "lesson": "pharmacology-lesson2",
+    "question": "2. Which one of the following is the drug of choice in controlling of vomiting due to motion sickness and recovery from anesthesia and surgery?",
+    "options": ["scopolamine", "domperidone", "granisteron", "cortisone"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma98",
+    "lesson": "pharmacology-lesson2",
+    "question": "3. Which one of the following antimicrobial drugs with prokinetic properties?",
+    "options": ["tetracycline", "Doxycycline", "erythromycin", "vancomycin"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma99",
+    "lesson": "pharmacology-lesson2",
+    "question": "4. Which one of the following drugs can control sever vomiting by blocking serotonergic receptor",
+    "options": ["metoclopramide", "mosapride", "ranitidine", "ondansetron"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma100",
+    "lesson": "pharmacology-lesson2",
+    "question": "6.Which one of the following is a salt free osmotic laxative?",
+    "options": ["bran", "lactulose", "bisacodyl", "magnesium hydroxide"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma101",
+    "lesson": "pharmacology-lesson2",
+    "question": "ulcer and takes a drug that acts by inhibiting H+/K+ ATPase in gastric parietal cells. Which of the following deugs does the patient most likely take?",
+    "options": ["Omeprazole", "Misoprostol", "Ranitidine", "Sucralfate"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma102",
+    "lesson": "pharmacology-lesson2",
+    "question": "2)Which of the following antiemetic agent most likely can produce extrapyramidal manifestations as a part of its adverse drug reaction ?",
+    "options": ["ondansetron", "Dronabinol", "Domperidone", "metoclopramide"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma103",
+    "lesson": "pharmacology-lesson2",
+    "question": "3) Which of the following is the mechanism of action of hyoscine (Scopolamine) as an antiemetic",
+    "options": ["It blocks histamine receptors in the vomiting center.", "It blocks Serotonin receptors in the vomiting center.", "It blocks muscarinic receptors in the vomiting center.", "It blocks dopamine receptors in the vomiting center"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma104",
+    "lesson": "pharmacology-lesson2",
+    "question": "4) They are non-digestible fibers; retain water in the gut and distend the large intestine causing activation of stretch receptors and stimulation of peristalsis. Which of the following can describe the previous statement?",
+    "options": ["Bulk purgatives.", "Stimulant purgatives.", "Irritant purgatives.", "Lubricant purgatives."],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma105",
+    "lesson": "pharmacology-lesson2",
+    "question": "1. A 46-year-old man recently diagnosed with a duodenal ulcer started a treatment that included daily Sucralfate. Which of the following mechanisms most likely mediates the therapeutic efficacy of the drug in the patient's disease?",
+    "options": ["Protecting the surface of the stomach from degradation by acid.", "Reacting with gastric hydrochloric acid to form salt and water.", "Inhibiting hydrochloric acid secretion.", "Stimulating bicarbonate secretion by antral parietal cells."],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma106",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which of the following drugs used for treatment of peptic ulcer & can cause gynaecomastia as a side effect?",
+    "options": ["Omeprazole.", "Misoprostol.", "Cimetidine.", "Sucralfate."],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma107",
+    "lesson": "pharmacology-lesson2",
+    "question": "A pregnant woman complaining of nausea and vomiting. Which one of the following drugs can be prescribed safely?",
+    "options": ["Metoclopramide.", "Hyoscine (scopolamine).", "Nabilone.", "Pyridoxine (Vit B6)."],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma108",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which of the followings is the mechanism of action of metoclopramide antiemetic action?",
+    "options": ["H1 and H2-receptor blocking effect.", "Muscarinic-cholinoreceptor stimulating effect.", "D2-dopamine receptor blocking effect.", "Muscarinic-cholinoreceptor blocking effect."],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma109",
+    "lesson": "pharmacology-lesson2",
+    "question": "Extrapyramidal manifestations as dyskinesia and Parkinsonism are well known adverse effects of which one of the following drugs?",
+    "options": ["Metoclopramide.", "Hyoscine.", "Cortisol.", "Pyridoxine (Vit B6)."],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma110",
+    "lesson": "pharmacology-lesson2",
+    "question": "A 65 year old woman suffering from heartburn was routinely taking a large amount of an antacid preparation containing aluminum hydroxide. Lab exams would show which of the following",
+    "options": ["hyperglycemia", "hypercalcemia", "hypernatremia", "hypophosphatemia"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma111",
+    "lesson": "pharmacology-lesson2",
+    "question": "famotidine inhibit which of the following molecular target",
+    "options": ["gastrin binding to partial cells", "histamine binding to partial cells", "H/K ATPase", "partial cells prostaglandins receptors"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma112",
+    "lesson": "pharmacology-lesson2",
+    "question": "which of the following drugs is choice best to prevent vomiting of motion sickness",
+    "options": ["metoclopramide", "domperidone", "dimenhydrinate", "chlorpromazine"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma113",
+    "lesson": "pharmacology-lesson2",
+    "question": "A 36 Year old man complained to his doctor of dizziness and drowsiness. The man recently diagnosed with gastroesophageal reflux disease has started appropriate treatment 2 weeks earlier. Laboratory findings showed elevated prolactin levels. Which of the following can cause this symptoms",
+    "options": ["cimetidine", "Omeprazole", "calcium carbonate", "sucralfate"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma114",
+    "lesson": "pharmacology-lesson2",
+    "question": "How does famotidine work?",
+    "options": ["Proton pump inhibitor", "Histamine receptor blocker", "Anticholinergic agent", "Prostaglandin analog"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma115",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which of the following drugs inhibits H+, K+- ATPase in the gastric parietal cell?",
+    "options": ["Ranitidine", "Sucralfate", "Omeprazole", "Misoprostol"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma116",
+    "lesson": "pharmacology-lesson2",
+    "question": "Which histamine H2 blocker has the most marked inhibitory effect on the microsomal cytochrome P- 450 enzyme?",
+    "options": ["Cimetidine", "Ranitidine", "Nizatidine", "Famotidine"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma117",
+    "lesson": "pharmacology-lesson2",
+    "question": "A 46-year-old man recently diagnosed with a duodenal ulcer started a treatment that included daily sucralfate. Which of the following mechanisms most likely mediates the therapeutic efficacy of the drug in this patient's disease?",
+    "options": ["Reacting with gastric hydrochloric acid to form salt and water", "Inhibiting hydrochloric acid secretion", "Stimulating bicarbonate secretion by antral parietal cells", "Protecting the surface of the stomach from degradation by acid"],
+    "answerIndex": 3
+  }
+]
+}

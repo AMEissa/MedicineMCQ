@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>By subject & lesson</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="js/lesson.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>Generate by subject & lesson</h2>
+            <a href="index.html" class="btn">Home</a>
+        </div>
+
+        <div class="card">
+            <!-- Subject dropdown -->
+            <label for="subject"><strong>Subject:</strong></label>
+            <select id="subject">
+                <option value="pharmacology">pharmacology</option>
+                <option value="pathology">pathology</option>
+            </select>
+
+            <!-- Lesson dropdown -->
+            <label for="lesson" style="margin-top:10px;"><strong>Lesson:</strong></label>
+            <select id="lesson"></select>
+
+            <!-- MCQ count -->
+            <label for="count" style="margin-top:10px;"><strong>MCQ count:</strong></label>
+            <input id="count" class="input" type="number" min="1" max="200" value="10" />
+
+            <button id="gen" class="btn" style="margin-top:10px;">Generate</button>
+            <button id="review" class="btn" style="margin-top:10px;">Review Answers</button>
+            <div id="status" class="meta" style="margin-top:8px;"></div>
+        </div>
+
+        <div id="list" class="list"></div>
+    </div>
+</body>
+</html>

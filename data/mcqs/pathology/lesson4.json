@@ -1,0 +1,72 @@
+[
+  {
+    "id": "path31",
+    "lesson": "pathology-lesson2",
+    "question": "Which type of necrosis is seen in pancreatitis?",
+    "options": ["Fat necrosis", "Coagulative", "Liquefactive", "Caseous"],
+    "answerIndex": 0
+  },
+  {
+    "id": "path32",
+    "lesson": "pathology-lesson2",
+    "question": "Which condition shows liquefactive necrosis outside the brain?",
+    "options": ["Abscess", "Myocardial infarction", "Tuberculosis", "Cirrhosis"],
+    "answerIndex": 0
+  },
+  {
+    "id": "path33",
+    "lesson": "pathology-lesson2",
+    "question": "Which disease is associated with Reed-Sternberg cells?",
+    "options": ["Hodgkin lymphoma", "Non-Hodgkin lymphoma", "Leukemia", "Multiple myeloma"],
+    "answerIndex": 0
+  },
+  {
+    "id": "path34",
+    "lesson": "pathology-lesson2",
+    "question": "Which condition shows dystrophic calcification?",
+    "options": ["Damaged heart valves", "Hyperparathyroidism", "Vitamin D toxicity", "Renal failure"],
+    "answerIndex": 0
+  },
+  {
+    "id": "path35",
+    "lesson": "pathology-lesson2",
+    "question": "Which condition shows liquefactive necrosis in the CNS?",
+    "options": ["Stroke", "Tuberculosis", "Cirrhosis", "Hypertension"],
+    "answerIndex": 0
+  },
+  {
+    "id": "path36",
+    "lesson": "pathology-lesson2",
+    "question": "Which disease shows granulomas with caseating necrosis?",
+    "options": ["Tuberculosis", "Sarcoidosis", "Crohn’s disease", "Ulcerative colitis"],
+    "answerIndex": 0
+  },
+  {
+    "id": "path37",
+    "lesson": "pathology-lesson2",
+    "question": "Which condition shows non-caseating granulomas?",
+    "options": ["Sarcoidosis", "Tuberculosis", "Syphilis", "Leprosy"],
+    "answerIndex": 0
+  },
+  {
+    "id": "path38",
+    "lesson": "pathology-lesson2",
+    "question": "Which disease shows amyloid deposition in the kidney?",
+    "options": ["Chronic inflammation", "Asthma", "Hypertension", "Stroke"],
+    "answerIndex": 0
+  },
+  {
+    "id": "path39",
+    "lesson": "pathology-lesson2",
+    "question": "Which condition shows hemosiderin deposition?",
+    "options": ["Hemochromatosis", "Tuberculosis", "Stroke", "Cirrhosis"],
+    "answerIndex": 0
+  },
+  {
+    "id": "path40",
+    "lesson": "pathology-lesson2",
+    "question": "Which condition shows fibrinoid necrosis in blood vessels?",
+    "options": ["Vasculitis", "Tuberculosis", "Stroke", "Cirrhosis"],
+    "answerIndex": 0
+  }
+]

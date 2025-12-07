@@ -1,0 +1,415 @@
+{
+ "title": "CNS",
+ "questions": [
+  {
+    "id": "pharma1",
+    "lesson": "pharmacology-lesson1",
+    "question": "Barbiturates exert the following actions EXCEPT:",
+    "options": ["Anticonvulsant", "Analgesic", "Antianxiety", "Respiratory depressant"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma2",
+    "lesson": "pharmacology-lesson1",
+    "question": "Currently barbiturates are primarily used as:",
+    "options": ["Hypnotic", "Sedative", "Antiepileptic", "Preanaesthetic medication"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma3",
+    "lesson": "pharmacology-lesson1",
+    "question": "Benzodiazepines differ from barbiturates in the following aspects EXCEPT:",
+    "options": [
+      "They have a steeper dose response curve",
+      "They have higher therapeutic index",
+      "They have lower abuse liability",
+      "They do not induce microsomal drug metabolizing enzymes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma4",
+    "lesson": "pharmacology-lesson1",
+    "question": "Select the correct statement about benzodiazepines (BZDs):",
+    "options": [
+      "All BZDs facilitate GABA mediated Cl influx into neurones",
+      "Different BZDs exert the same degrees of hypnotic, anxiolytic and anticonvulsant actions",
+      "The BZD receptor is homogeneous at all neuronal sites",
+      "The muscle relaxant action of BZDs is not blocked by flumazenil"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma5",
+    "lesson": "pharmacology-lesson1",
+    "question": "The primary mechanism of action of benzodiazepines is:",
+    "options": [
+      "Dopamine antagonism",
+      "Adenosine antagonism",
+      "Opening of neuronal chloride channels",
+      "Facilitation of GABA-mediated chloride influx"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma6",
+    "lesson": "pharmacology-lesson1",
+    "question": "Select the drug that antagonises diazepam action competitively:",
+    "options": ["Adenosine", "Flumazenil", "Bicuculline", "Valproic acid"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma7",
+    "lesson": "pharmacology-lesson1",
+    "question": "The following is a very potent and short acting benzodiazepine used as hypnotic:",
+    "options": ["Flurazepam", "Nitrazepam", "Temazepam", "Triazolam"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma8",
+    "lesson": "pharmacology-lesson1",
+    "question": "Zolpidem differs from diazepam in that:",
+    "options": [
+      "It is more potent hypnotic",
+      "Its hypnotic action shows little daytime sleeping",
+      "It causes more marked suppression of REM sleep",
+      "It has more potent muscle relaxant action"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma9",
+    "lesson": "pharmacology-lesson1",
+    "question": "The following drug is used to reverse the CNS depression produced by diazepam:",
+    "options": ["Dexamphetamine", "Doxapram", "Physostigmine", "Flumazenil"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma10",
+    "lesson": "pharmacology-lesson1",
+    "question": "Select the correct statement about flumazenil:",
+    "options": [
+      "It is a CNS stimulant used as an antidote for benzodiazepine poisoning",
+      "It is a CNS depressant but blocks the action of diazepam",
+      "It has no CNS effect of its own but blocks the depressant effects of benzodiazepines as well as barbiturates",
+      "It has no CNS effect of its own but blocks the depressant effect of diazepam"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma11",
+    "lesson": "pharmacology-lesson1",
+    "question": "Clonazepam is a benzodiazepine used as:",
+    "options": ["Hypnotic", "Muscle relaxant", "Anxiolytic", "Antiepileptic"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma12",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which of the following is a nonsedative anxiolytic:",
+    "options": ["Chlorpromazine", "Buspirone", "Phenobarbitone", "Alprazolam"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma13",
+    "lesson": "pharmacology-lesson1",
+    "question": "The following statement is correct about buspirone:",
+    "options": [
+      "It interacts with benzodiazepine receptor as an inverse agonist",
+      "It is a rapidly acting anxiolytic, good for panic states",
+      "It produces physical dependence and suppresses barbiturate withdrawal syndrome",
+      "It has anxiolytic but no anticonvulsant or muscle relaxant property"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma14",
+    "lesson": "pharmacology-lesson1",
+    "question": "Select the drug which relieves anxiety but neither reacts with benzodiazepine receptor nor produces any overt CNS effect:",
+    "options": ["Oxazepam", "Thioproperazine", "Buspirone", "Chlordiazepoxide"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma15",
+    "lesson": "pharmacology-lesson1",
+    "question": "The preferred class of drugs for long term treatment of severe anxiety disorder with intermittent panic attacks is:",
+    "options": [
+      "Phenothiazine (chlorpromazine like)",
+      "Azapirone (buspirone like)",
+      "β-blocker (propranolol like)",
+      "Selective serotonin reuptake inhibitor (sertraline like)"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma16",
+    "lesson": "pharmacology-lesson1",
+    "question": "The nonselective MAO inhibitors are not used clinically as antidepressants because of their:",
+    "options": [
+      "Low antidepressant efficacy",
+      "Higher toxicity",
+      "Potential to interact with many foods and drugs",
+      "Both 'B' and 'C' are correct"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma17",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which of the following MAO inhibitors is most likely to produce cheese reaction:",
+    "options": ["Tranylcypromine", "Moclobemide", "Selegiline", "Clorgyline"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma18",
+    "lesson": "pharmacology-lesson1",
+    "question": "'Cheese reaction' in a MAO inhibited patient manifests as:",
+    "options": [
+      "Precipitous fall in blood pressure and shock",
+      "Hypertensive crisis",
+      "Acute manic episode",
+      "Convulsions"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma19",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which one of the following statements is correct?",
+    "options": [
+      "Benzodiazepines directly open chloride channels.",
+      "Benzodiazepines show analgesic actions.",
+      "Clinical improvement of anxiety requires 2 to 4 weeks of treatment with benzodiazepines.",
+      "All benzodiazepines have some sedative effects."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma20",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which one of the following is a short-acting hypnotic?",
+    "options": ["Phenobarbital", "Diazepam", "Triazolam", "Flurazepam"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma21",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which one of the following statements is correct?",
+    "options": [
+      "Phenobarbital shows analgesic properties.",
+      "Diazepam and phenobarbital induce the cytochrome P450 enzyme system.",
+      "Phenobarbital induces respiratory depression, which is enhanced by the consumption of ethanol.",
+      "Buspirone has actions similar to those of the benzodiazepines."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma22",
+    "lesson": "pharmacology-lesson1",
+    "question": "A 45-year-old man who has been injured in a car accident is brought into the emergency room. His blood alcohol level on admission is 275 mg/dL.Hospital records show a prior hospitalization for alcohol related seizures. His wife confirms that he has been drinking heavily for 3 weeks. What treatment should be provided to the patient if he goes into withdrawal?",
+    "options": ["None", "Diazepam", "Pentobarbital", "Phenytoin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma23",
+    "lesson": "pharmacology-lesson1",
+    "question": "A 24-year-old stockbroker with generalized anxiety disorder is prescribed Buspirone. What should the physician inform the patient?",
+    "options": [
+      "Need to continually increase dosage because of tolerance",
+      "Significant effect of the drug on memory",
+      "Additive CNS depression with alcoholic beverages",
+      "Drug likely to take two weeks or more to begin working"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma24",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which of the following best describes the mechanism of action of benzodiazepines?",
+    "options": [
+      "Activate GABAB receptors in the spinal cord",
+      "Block glutamate receptors in hierarchical neuronal pathways in the brain",
+      "Increase frequency of opening of chloride ion channels coupled to GABAA receptors",
+      "Stimulate release of GABA from nerve endings in the brain"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma25",
+    "lesson": "pharmacology-lesson1",
+    "question": "This drug used in insomnia facilitates inhibitory actions of GABA, lacks anticonvulsant or muscle-relaxing properties, minimal effect on sleep architecture, and is antagonized by flumazenil.",
+    "options": ["Buspirone", "Chlordiazepoxide", "Zolpidem", "Ramelteon"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma26",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which antipsychotic drug has the lowest risk of tardive dyskinesia?",
+    "options": ["Chlorpromazine", "Haloperidol", "Clozapine", "Quetiapine"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma27",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which of the following is a pharmacological action of diazepam?",
+    "options": [
+      "Decrease pain sensation",
+      "Relief of hallucinations and delusion",
+      "Decrease skeletal muscle tone",
+      "Loss of remote memory"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma28",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which benzodiazepine would be prescribed for a short period to a patient with early insomnia?",
+    "options": ["Diazepam", "Triazolam", "Clonazepam", "Alprazolam"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma29",
+    "lesson": "pharmacology-lesson1",
+    "question": "The following action of chlorpromazine is not based on its anti-dopaminergic property:",
+    "options": ["Antipsychotic", "Hyperprolactinemia", "Antiemetic", "Hypotensive"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma30",
+    "lesson": "pharmacology-lesson1",
+    "question": "Chlorpromazine therapy increases the secretion of the following hormone:",
+    "options": ["Prolactin", "Gonadotropin", "Corticotrophin", "Antidiuretic hormone"],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma31",
+    "lesson": "pharmacology-lesson1",
+    "question": "The major limitation in the use of clozapine for treatment of schizophrenia is:",
+    "options": [
+      "Its potential to cause agranulocytosis",
+      "Its inability to benefit negative symptoms of schizophrenia",
+      "High incidence of extrapyramidal side effects",
+      "Production of hyperprolactinemia"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "pharma32",
+    "lesson": "pharmacology-lesson1",
+    "question": "What is true of Risperidone:",
+    "options": [
+      "It is an atypical neuroleptic which produces few extrapyramidal side effects",
+      "It has combined dopamine D2 and 5-HT2 receptor blocking activity",
+      "It does not cause hyperprolactinemia",
+      "Both 'A' and 'B' are correct"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma33",
+    "lesson": "pharmacology-lesson1",
+    "question": "The following antipsychotic drug has weak dopamine D2 but additional 5-HT2 blocking activity and benefits both positive and negative symptoms of schizophrenia:",
+    "options": ["Chlorpromazine", "Clozapine", "Haloperidol", "Droperidol"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma34",
+    "lesson": "pharmacology-lesson1",
+    "question": "The following adverse effect can occur even long after withdrawal of the offending drug:",
+    "options": ["Paradoxical tachycardia", "Tardive dyskinesia", "Malignant hyperthermia", "Gynecomastia"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma35",
+    "lesson": "pharmacology-lesson1",
+    "question": "The psychotic symptoms most benefited by typical neuroleptic drugs are:",
+    "options": [
+      "Judgment and memory impairment",
+      "Loss of insight and volition",
+      "Hallucinations, delusions and aggressive behavior",
+      "Apathy and social withdrawal"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma36",
+    "lesson": "pharmacology-lesson1",
+    "question": "An adolescent male newly diagnosed with schizophrenia may improve apathy and blunted emotion with which neuroleptic agent?",
+    "options": ["Chlorpromazine", "Haloperidol", "Risperidone", "Thioridazine"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma37",
+    "lesson": "pharmacology-lesson1",
+    "question": "A young male patient develops severe muscle cramps with torticollis shortly after haloperidol therapy. The best term to describe this side effect is:",
+    "options": ["Akathisia", "Tardive dyskinesia", "Dystonia", "Parkinsonian-like symptoms"],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma38",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which of the following drugs has a high affinity for 5-HT2 receptors in the brain, does not cause extrapyramidal dysfunction or hematotoxicity?",
+    "options": ["Clozapine", "Haloperidol", "Molindone", "Risperidone"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma39",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which antipsychotic drug has the lowest risk of tardive dyskinesia?",
+    "options": ["Chlorpromazine", "Haloperidol", "Clozapine", "Quetiapine"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma40",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which of the following is a pharmacological action of diazepam?",
+    "options": [
+      "Decrease pain sensation",
+      "Relief of hallucinations and delusion",
+      "Decrease skeletal muscle tone",
+      "Loss of remote memory"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "pharma41",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which benzodiazepine would be prescribed for a short period to a patient with early insomnia?",
+    "options": ["Diazepam", "Triazolam", "Clonazepam", "Alprazolam"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma42",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which antipsychotic drug is more suitable for an obese patient?",
+    "options": ["Olanzapine", "Clozapine", "Quetiapine", "Risperidone"],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma43",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which of the following is the main mechanism of action of 1st generation antipsychotic drugs?",
+    "options": [
+      "Blocking of central 5-HT2A receptor",
+      "Enhancement of central GABA transmission",
+      "Stimulation of central norepinephrine neurotransmission",
+      "Blocking of the D2 receptor"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "pharma44",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which benzodiazepine would be prescribed for early insomnia?",
+    "options": ["Temazepam", "Triazolam", "Clonazepam", "Alprazolam"],
+    "answerIndex": 1
+  },
+  {
+    "id": "pharma45",
+    "lesson": "pharmacology-lesson1",
+    "question": "Which selective serotonin reuptake inhibitor (SSRI) is more sedating?",
+    "options": ["Paroxetine", "Fluoxetine", "Sertraline", "Citalopram"],
+    "answerIndex": 0
+  }
+]
+}

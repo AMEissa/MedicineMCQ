@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Random set</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="js/random.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>Random set</h2>
+            <a href="index.html" class="btn">Home</a>
+        </div>
+        <div class="card">
+            <label for="subject"><strong>Subject:</strong></label>
+            <select id="subject">
+                <option value="both">Both</option>
+                <option value="pharmacology">Pharmacology</option>
+                <option value="pathology">Pathology</option>
+            </select>
+            <label for="count"><strong>MCQ count:</strong></label>
+            <input id="count" class="input" type="number" min="1" max="200" value="20" />
+            <button id="gen" class="btn" style="margin-top:10px;">Generate</button>
+            <button id="review" class="btn" style="margin-top:10px;">Review Answers</button>
+            <div id="status" class="meta" style="margin-top:8px;"></div>
+        </div>
+        <div id="list" class="list"></div>
+    </div>
+</body>
+</html>
